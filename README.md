@@ -1,4 +1,5 @@
 India Job Market & Skill Demand Analytics Dashboard
+
 🔍 Project Overview
 
 This project analyzes job market trends across LinkedIn, Naukri, and Indeed using Power BI.
